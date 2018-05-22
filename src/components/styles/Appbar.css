@@ -1,0 +1,34 @@
+.Appbar-container{
+  background-color: #682218;
+  color: #F8BE3D;
+  padding: 1em;
+  border-radius: 0 0 0.1em 0.1em;
+  position: fixed;
+  width: 100%;
+  font-size: 1.7em;
+}
+
+.Appbar-owner{
+  opacity: 1;
+}
+
+.Appbar-right{
+  float: right;
+  opacity: 1;
+}
+
+.Appbar-link{
+  text-decoration: none;
+  color: #F8BE3D;
+  padding-right: 1em;
+  
+}
+
+.Appbar-link:hover{
+  text-decoration: underline;
+  color: #F8BE3D;
+}
+
+.Appbar-link:active{
+  text-decoration: underline;
+}

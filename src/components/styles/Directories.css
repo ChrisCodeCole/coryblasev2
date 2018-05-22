@@ -1,0 +1,28 @@
+.Directories-container{
+  display: flex;
+  /* height: 50em; */
+  justify-content: space-evenly;
+  align-items: center;
+
+}
+
+.Directories-images{
+  max-width: 100%;
+  height: auto;
+  border: 1px solid red;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 0.5em;
+}
+
+.Directories-img1{
+
+}
+
+.Directories-img2{
+  
+}
+
+@keyframes Directories-slide {
+  from {background-color: red;}
+  to {background-color: yellow;}
+}
